@@ -1,3 +1,1 @@
-
-# coursera
-repository to be used for coursera quicklabs 
+I am editing the README file. Adding some more details about the project description.
